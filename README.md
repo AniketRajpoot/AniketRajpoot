@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h2 align="left">About me</h2>
 
 - 🔭 I'm currently working on Face analysis and Video analysis using Computer Vision 
-- 🌱 I’m currently learning everything 🤣 but passionate about Computer Vision, Natural Language Processing and deep learning in general.
+- 🌱 I’m currently learning everything 🤣 but passionate about Computer Vision, Natural Language Processing and deep learning in general
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar and produce music 
