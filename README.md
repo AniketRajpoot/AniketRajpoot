@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hello there 👋! My name is Aniket Singh Rajpoot.</h2>
 
-<h3> 💬 &nbsp;About Me </h3>
+<p align="center">
+<a href=""><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+<a href="https://www.linkedin.com/in/aniket-singh-rajpoot-9238b6227/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<!--<a href=""><img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>-->
+</p>
+
+<h2> 💬 &nbsp;About Me </h2>
 
 - 🔭 I'm currently working on Deep music Generation and text guided diffusion models
 - 🌱 I’m currently learning everything 🤣 but passionate about CV, NLP and deep learning in general
@@ -23,7 +29,7 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play guitar and produce music 
    
-<h3>🛠 &nbsp;Tech Stack</h3>
+<h2>🛠 &nbsp;Tech Stack</h2>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -54,16 +60,9 @@ Here are some ideas to get you started:
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
 
-<h3>⚙️ &nbsp;GitHub Analytics</h3>
+<h2>⚙️ &nbsp;GitHub Analytics</h2>
 <p align=center>  
   <img height="180em" align=center src="https://github-readme-stats.vercel.app/api?username=AniketRajpoot&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=True)">
   <!--<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketRajpoot&langs_count=3&theme=tokyonight&count_private=true&include_all_commits=True)">-->
  <img height="180em" align=center src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AniketRajpoot&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<h3>🤝🏻 &nbsp;Connect with Me</h3>
-<p align="center">
-<a href=""><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-<a href="https://www.linkedin.com/in/aniket-singh-rajpoot-9238b6227/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-<a href=""><img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
 </p>
