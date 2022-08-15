@@ -23,12 +23,16 @@ Here are some ideas to get you started:
 
 <h2> 💬 &nbsp;About Me </h2>
 
+<img alt="Night Coding" height = "180m" src="https://github.com/AniketRajpoot/AniketRajpoot/blob/main/Assets/hello.gif" align="right"/>
+
 - 🔭 I'm currently working on Deep music Generation and text guided diffusion models
 - 🌱 I’m currently learning everything 🤣 but passionate about CV, NLP and deep learning in general
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play guitar and produce music 
    
+
+
 <h2>🛠 &nbsp;Tech Stack</h2>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
