@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 <img alt="Night Coding" height = "180m" src="https://github.com/AniketRajpoot/AniketRajpoot/blob/main/Assets/hello.gif" align="right"/>
 
-- 🔭 I'm currently working on music generation in audio domain and adapting LLMs to multiple domains
-- 🌱 I’m currently learning everything 🤣 but passionate about NLP and Generative AI in general
-- 👯 I’m looking to collaborate with other developers 
-- 🥅 2024 Goals: Be consistent with projects 🥲
-- ⚡ Fun fact: I love to play guitar and produce music 
+- 🔭 I'm currently working on real world applications of Agentic AI and training robust deep learining models
+- 🌱 I’m currently learning about RL methods specifically post-training methods for Agents
+- 👯 I’m looking to collaborate with other developers and work on interesting projects
+- 🥅 2026 Goals: Explore new areas to apply AI models and work on OSS projects
+- ⚡ Fun fact: I love to play guitar and can produce music 
    
 
 
